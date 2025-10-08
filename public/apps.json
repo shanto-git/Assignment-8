@@ -1,0 +1,507 @@
+[
+  {
+    "image": "https://play-lh.googleusercontent.com/1",
+    "title": "SnapPic Editor",
+    "companyName": "PixelForge Ltd.",
+    "id": 1,
+    "description": "A lightweight photo editing app with AI filters and background remover.",
+    "size": 42,
+    "reviews": 52000,
+    "ratingAvg": 4.6,
+    "downloads": 5000000,
+    "ratings": [
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 1800 },
+      { "name": "3 star", "count": 5200 },
+      { "name": "4 star", "count": 16500 },
+      { "name": "5 star", "count": 27400 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/2",
+    "title": "Taskify Pro",
+    "companyName": "SmartHive Apps",
+    "id": 2,
+    "description": "Manage your tasks efficiently with reminders and progress tracking.",
+    "size": 28,
+    "reviews": 45000,
+    "ratingAvg": 4.4,
+    "downloads": 3200000,
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 2100 },
+      { "name": "3 star", "count": 4000 },
+      { "name": "4 star", "count": 12000 },
+      { "name": "5 star", "count": 26000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/3",
+    "title": "FitTrack",
+    "companyName": "ActiveWave Inc.",
+    "id": 3,
+    "description": "Track your daily steps, calories, and workouts with precision analytics.",
+    "size": 65,
+    "reviews": 68000,
+    "ratingAvg": 4.7,
+    "downloads": 7200000,
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 2500 },
+      { "name": "3 star", "count": 5100 },
+      { "name": "4 star", "count": 14000 },
+      { "name": "5 star", "count": 44400 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/4",
+    "title": "NoteEase",
+    "companyName": "Paperless Labs",
+    "id": 4,
+    "description": "Create and organize notes with voice-to-text and sync across devices.",
+    "size": 31,
+    "reviews": 39000,
+    "ratingAvg": 4.2,
+    "downloads": 2200000,
+    "ratings": [
+      { "name": "1 star", "count": 1400 },
+      { "name": "2 star", "count": 1900 },
+      { "name": "3 star", "count": 5600 },
+      { "name": "4 star", "count": 11500 },
+      { "name": "5 star", "count": 18600 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/5",
+    "title": "SoundBeat",
+    "companyName": "RhythmX",
+    "id": 5,
+    "description": "High-quality music player with equalizer and offline mode.",
+    "size": 58,
+    "reviews": 72000,
+    "ratingAvg": 4.8,
+    "downloads": 8500000,
+    "ratings": [
+      { "name": "1 star", "count": 1300 },
+      { "name": "2 star", "count": 1900 },
+      { "name": "3 star", "count": 4200 },
+      { "name": "4 star", "count": 14200 },
+      { "name": "5 star", "count": 50400 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/6",
+    "title": "Weatherly",
+    "companyName": "SkyMap Studios",
+    "id": 6,
+    "description": "Accurate weather forecasting with radar and live alerts.",
+    "size": 25,
+    "reviews": 31000,
+    "ratingAvg": 4.3,
+    "downloads": 1900000,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1700 },
+      { "name": "3 star", "count": 4100 },
+      { "name": "4 star", "count": 9000 },
+      { "name": "5 star", "count": 15500 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/7",
+    "title": "BudgetPal",
+    "companyName": "Finwise Co.",
+    "id": 7,
+    "description": "Smart expense tracker that helps you save and plan budgets easily.",
+    "size": 38,
+    "reviews": 49000,
+    "ratingAvg": 4.5,
+    "downloads": 4100000,
+    "ratings": [
+      { "name": "1 star", "count": 1100 },
+      { "name": "2 star", "count": 1600 },
+      { "name": "3 star", "count": 5300 },
+      { "name": "4 star", "count": 14800 },
+      { "name": "5 star", "count": 26200 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/8",
+    "title": "EduMate",
+    "companyName": "LearnPro Systems",
+    "id": 8,
+    "description": "Interactive learning platform with video tutorials and quizzes.",
+    "size": 72,
+    "reviews": 86000,
+    "ratingAvg": 4.6,
+    "downloads": 9500000,
+    "ratings": [
+      { "name": "1 star", "count": 2100 },
+      { "name": "2 star", "count": 2400 },
+      { "name": "3 star", "count": 7100 },
+      { "name": "4 star", "count": 18600 },
+      { "name": "5 star", "count": 55700 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/9",
+    "title": "TravelGo",
+    "companyName": "ExploreIT",
+    "id": 9,
+    "description": "Find cheap flights, hotels, and trip ideas with real-time booking.",
+    "size": 64,
+    "reviews": 77000,
+    "ratingAvg": 4.5,
+    "downloads": 8800000,
+    "ratings": [
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 2300 },
+      { "name": "3 star", "count": 6500 },
+      { "name": "4 star", "count": 18500 },
+      { "name": "5 star", "count": 48200 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/10",
+    "title": "MindCalm",
+    "companyName": "ZenApps",
+    "id": 10,
+    "description": "Guided meditation app to reduce stress and improve focus.",
+    "size": 44,
+    "reviews": 53000,
+    "ratingAvg": 4.7,
+    "downloads": 5400000,
+    "ratings": [
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 1800 },
+      { "name": "3 star", "count": 4900 },
+      { "name": "4 star", "count": 15000 },
+      { "name": "5 star", "count": 30100 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/11",
+    "title": "RecipeHub",
+    "companyName": "CookSmart Labs",
+    "id": 11,
+    "description": "Discover, save, and share recipes from chefs worldwide.",
+    "size": 53,
+    "reviews": 39000,
+    "ratingAvg": 4.3,
+    "downloads": 3300000,
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 1900 },
+      { "name": "3 star", "count": 4800 },
+      { "name": "4 star", "count": 11000 },
+      { "name": "5 star", "count": 20400 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/12",
+    "title": "CryptoView",
+    "companyName": "BlockTech Solutions",
+    "id": 12,
+    "description": "Monitor crypto prices, news, and create your personalized portfolio.",
+    "size": 37,
+    "reviews": 42000,
+    "ratingAvg": 4.1,
+    "downloads": 2700000,
+    "ratings": [
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 2500 },
+      { "name": "3 star", "count": 6400 },
+      { "name": "4 star", "count": 10300 },
+      { "name": "5 star", "count": 21300 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/13",
+    "title": "ShopLink",
+    "companyName": "Marketly",
+    "id": 13,
+    "description": "Compare product prices across online stores instantly.",
+    "size": 48,
+    "reviews": 59000,
+    "ratingAvg": 4.5,
+    "downloads": 4800000,
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 1900 },
+      { "name": "3 star", "count": 5000 },
+      { "name": "4 star", "count": 16000 },
+      { "name": "5 star", "count": 35100 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/14",
+    "title": "ChatWave",
+    "companyName": "Connectify",
+    "id": 14,
+    "description": "Fast, secure messaging app with group chat and media sharing.",
+    "size": 70,
+    "reviews": 98000,
+    "ratingAvg": 4.8,
+    "downloads": 12000000,
+    "ratings": [
+      { "name": "1 star", "count": 2500 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 7100 },
+      { "name": "4 star", "count": 21000 },
+      { "name": "5 star", "count": 64400 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/15",
+    "title": "DriveSafe",
+    "companyName": "SafeRide Tech",
+    "id": 15,
+    "description": "Monitor driving habits, get safety tips and reduce car insurance cost.",
+    "size": 59,
+    "reviews": 34000,
+    "ratingAvg": 4.4,
+    "downloads": 2600000,
+    "ratings": [
+      { "name": "1 star", "count": 1100 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 5200 },
+      { "name": "4 star", "count": 12000 },
+      { "name": "5 star", "count": 15200 }
+    ]
+  },
+  
+  {
+    "image": "https://play-lh.googleusercontent.com/16",
+    "title": "FitMeal",
+    "companyName": "HealthNut Inc.",
+    "id": 16,
+    "description": "Meal planner with calorie tracking and healthy recipes.",
+    "size": 34,
+    "reviews": 47000,
+    "ratingAvg": 4.6,
+    "downloads": 4300000,
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 5800 },
+      { "name": "4 star", "count": 13200 },
+      { "name": "5 star", "count": 26600 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/17",
+    "title": "TravelMate",
+    "companyName": "ExploreIT",
+    "id": 17,
+    "description": "Plan trips, track flights, and book hotels easily.",
+    "size": 62,
+    "reviews": 65000,
+    "ratingAvg": 4.5,
+    "downloads": 7600000,
+    "ratings": [
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 2100 },
+      { "name": "3 star", "count": 6400 },
+      { "name": "4 star", "count": 17400 },
+      { "name": "5 star", "count": 30800 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/18",
+    "title": "PhotoBlend",
+    "companyName": "PixelForge Ltd.",
+    "id": 18,
+    "description": "Blend photos, apply effects, and create collages effortlessly.",
+    "size": 56,
+    "reviews": 52000,
+    "ratingAvg": 4.7,
+    "downloads": 5100000,
+    "ratings": [
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 1800 },
+      { "name": "3 star", "count": 5200 },
+      { "name": "4 star", "count": 16500 },
+      { "name": "5 star", "count": 27400 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/19",
+    "title": "MindFocus",
+    "companyName": "ZenApps",
+    "id": 19,
+    "description": "Enhance focus and productivity with guided exercises.",
+    "size": 41,
+    "reviews": 47000,
+    "ratingAvg": 4.6,
+    "downloads": 4200000,
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 1600 },
+      { "name": "3 star", "count": 5000 },
+      { "name": "4 star", "count": 13800 },
+      { "name": "5 star", "count": 26400 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/20",
+    "title": "CryptoTracker",
+    "companyName": "BlockTech Solutions",
+    "id": 20,
+    "description": "Track cryptocurrency prices and portfolio performance in real-time.",
+    "size": 36,
+    "reviews": 49000,
+    "ratingAvg": 4.4,
+    "downloads": 3000000,
+    "ratings": [
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 1800 },
+      { "name": "3 star", "count": 5400 },
+      { "name": "4 star", "count": 13500 },
+      { "name": "5 star", "count": 28000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/21",
+    "title": "ShopSmart",
+    "companyName": "Marketly",
+    "id": 21,
+    "description": "Get the best deals and compare prices across multiple online stores.",
+    "size": 49,
+    "reviews": 58000,
+    "ratingAvg": 4.5,
+    "downloads": 4700000,
+    "ratings": [
+      { "name": "1 star", "count": 1100 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 5100 },
+      { "name": "4 star", "count": 14700 },
+      { "name": "5 star", "count": 25200 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/22",
+    "title": "MeditateNow",
+    "companyName": "ZenApps",
+    "id": 22,
+    "description": "Guided meditation and breathing exercises for mental wellness.",
+    "size": 42,
+    "reviews": 51000,
+    "ratingAvg": 4.7,
+    "downloads": 5200000,
+    "ratings": [
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 1600 },
+      { "name": "3 star", "count": 4800 },
+      { "name": "4 star", "count": 14800 },
+      { "name": "5 star", "count": 26600 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/23",
+    "title": "EduLearn",
+    "companyName": "LearnPro Systems",
+    "id": 23,
+    "description": "Learn new skills online with interactive courses and quizzes.",
+    "size": 75,
+    "reviews": 88000,
+    "ratingAvg": 4.6,
+    "downloads": 9700000,
+    "ratings": [
+      { "name": "1 star", "count": 2200 },
+      { "name": "2 star", "count": 2500 },
+      { "name": "3 star", "count": 7000 },
+      { "name": "4 star", "count": 18500 },
+      { "name": "5 star", "count": 57300 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/24",
+    "title": "RideShareX",
+    "companyName": "SafeRide Tech",
+    "id": 24,
+    "description": "Find rides, share trips, and earn rewards for safe driving.",
+    "size": 68,
+    "reviews": 72000,
+    "ratingAvg": 4.5,
+    "downloads": 8500000,
+    "ratings": [
+      { "name": "1 star", "count": 1300 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 5400 },
+      { "name": "4 star", "count": 15200 },
+      { "name": "5 star", "count": 30100 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/25",
+    "title": "PhotoMaster",
+    "companyName": "PixelForge Ltd.",
+    "id": 25,
+    "description": "Professional photo editing tools for photographers and designers.",
+    "size": 64,
+    "reviews": 58000,
+    "ratingAvg": 4.7,
+    "downloads": 6000000,
+    "ratings": [
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 1800 },
+      { "name": "3 star", "count": 5200 },
+      { "name": "4 star", "count": 16000 },
+      { "name": "5 star", "count": 29000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/26",
+    "title": "GameHub",
+    "companyName": "PlayArena",
+    "id": 26,
+    "description": "Discover and play trending mobile games with friends online.",
+    "size": 80,
+    "reviews": 99000,
+    "ratingAvg": 4.8,
+    "downloads": 11500000,
+    "ratings": [
+      { "name": "1 star", "count": 2500 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 7100 },
+      { "name": "4 star", "count": 21000 },
+      { "name": "5 star", "count": 64400 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/27",
+    "title": "LearnCode",
+    "companyName": "LearnPro Systems",
+    "id": 27,
+    "description": "Code tutorials, challenges, and project-based learning platform.",
+    "size": 90,
+    "reviews": 83000,
+    "ratingAvg": 4.6,
+    "downloads": 10200000,
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 2500 },
+      { "name": "3 star", "count": 7100 },
+      { "name": "4 star", "count": 19500 },
+      { "name": "5 star", "count": 53400 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/28",
+    "title": "DailyPlanner",
+    "companyName": "SmartHive Apps",
+    "id": 28,
+    "description": "Organize your day, set reminders, and boost productivity.",
+    "size": 33,
+    "reviews": 52000,
+    "ratingAvg": 4.4,
+    "downloads": 4800000,
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 1800 },
+      { "name": "3 star", "count": 5400 },
+      { "name": "4 star", "count": 14000 },
+      { "name": "5 star", "count": 21200 }
+    ]
+  }
+]

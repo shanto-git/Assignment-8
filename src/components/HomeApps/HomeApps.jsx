@@ -1,5 +1,5 @@
 import React from "react";
-import { NavLink } from "react-router";
+import { Link, NavLink } from "react-router";
 
 const HomeApps = ({ apps }) => {
   const appsData = apps.slice(0, 8);
@@ -30,7 +30,7 @@ const HomeApps = ({ apps }) => {
         </div>
         <div className="mt-10">
             <button className="btn px-6 bg-gradient-to-r from-indigo-500  to-purple-500 text-white font-semibold">
-              Show All 
+              <Link to='/AppsData'>Show All</Link> 
             </button>
         </div>
       </div>

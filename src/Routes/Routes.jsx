@@ -3,6 +3,7 @@ import Root from "../pages/Root/Root";
 import ErrorPage from "../pages/ErrorPage/ErrorPage";
 import Home from "../pages/Home/Home";
 import AppsData from "../pages/AppsData/AppsData";
+import Loding from "../pages/Loding/Loding";
 
 
 export const router = createBrowserRouter([
@@ -10,7 +11,7 @@ export const router = createBrowserRouter([
     path: "/",
     Component: Root,
     errorElement: <ErrorPage></ErrorPage>,
-    hydrateFallbackElement:'loading..',
+    hydrateFallbackElement:<Loding></Loding>,
     children: [
       {
         index: true,
@@ -25,7 +26,7 @@ export const router = createBrowserRouter([
       const res = await fetch("/apps.json");
       return res.json();
     }
-      }
+      },
     ],
   },
 ]);

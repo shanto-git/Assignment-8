@@ -1,6 +1,6 @@
 [
   {
-    "image": "https://play-lh.googleusercontent.com/1",
+    "image": "https://media.licdn.com/dms/image/v2/C4D0BAQGbyRIIxmj5sQ/company-logo_200_200/company-logo_200_200/0/1630475009506/snappic_logo?e=2147483647&v=beta&t=OggK26oPms1_50fCnjgLdlE2vTXPRzKWNbEA2byJ2ls",
     "title": "SnapPic Editor",
     "companyName": "PixelForge Ltd.",
     "id": 1,
@@ -8,7 +8,7 @@
     "size": 42,
     "reviews": 52000,
     "ratingAvg": 4.6,
-    "downloads": 5000000,
+    "downloads": "5M",
     "ratings": [
       { "name": "1 star", "count": 1200 },
       { "name": "2 star", "count": 1800 },
@@ -18,7 +18,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/2",
+    "image": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/0a/5f/6a/0a5f6aa0-7bf9-0884-5a9c-8b8038de26ad/source/512x512bb.jpg",
     "title": "Taskify Pro",
     "companyName": "SmartHive Apps",
     "id": 2,
@@ -26,7 +26,7 @@
     "size": 28,
     "reviews": 45000,
     "ratingAvg": 4.4,
-    "downloads": 3200000,
+    "downloads": "3.2M",
     "ratings": [
       { "name": "1 star", "count": 900 },
       { "name": "2 star", "count": 2100 },
@@ -36,7 +36,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/3",
+    "image": "https://play-lh.googleusercontent.com/XbyPYUvaiayhseYJkxprcSRwnRCm3wtlEQq9SW7eQ-aCaYCbqi3NSweLJgzK_i1u2EY",
     "title": "FitTrack",
     "companyName": "ActiveWave Inc.",
     "id": 3,
@@ -44,7 +44,7 @@
     "size": 65,
     "reviews": 68000,
     "ratingAvg": 4.7,
-    "downloads": 7200000,
+    "downloads": "7.2M",
     "ratings": [
       { "name": "1 star", "count": 2000 },
       { "name": "2 star", "count": 2500 },
@@ -54,7 +54,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/4",
+    "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/881/627/datas/gallery.jpg",
     "title": "NoteEase",
     "companyName": "Paperless Labs",
     "id": 4,
@@ -62,7 +62,7 @@
     "size": 31,
     "reviews": 39000,
     "ratingAvg": 4.2,
-    "downloads": 2200000,
+    "downloads": "2.2M",
     "ratings": [
       { "name": "1 star", "count": 1400 },
       { "name": "2 star", "count": 1900 },
@@ -72,7 +72,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/5",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIH39FfrPwlqZD3_seh4GLGo0j80BGw44CEg&s",
     "title": "SoundBeat",
     "companyName": "RhythmX",
     "id": 5,
@@ -80,7 +80,7 @@
     "size": 58,
     "reviews": 72000,
     "ratingAvg": 4.8,
-    "downloads": 8500000,
+    "downloads": "8.5M",
     "ratings": [
       { "name": "1 star", "count": 1300 },
       { "name": "2 star", "count": 1900 },
@@ -90,7 +90,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/6",
+    "image": "https://play-lh.googleusercontent.com/B0QaELqT-qwwqpbzYMygC3_ZRoo_-9xfHls0NKIuk-hjxO0U0l-JHiyC8rBU9Hgw=w240-h480-rw",
     "title": "Weatherly",
     "companyName": "SkyMap Studios",
     "id": 6,
@@ -98,7 +98,7 @@
     "size": 25,
     "reviews": 31000,
     "ratingAvg": 4.3,
-    "downloads": 1900000,
+    "downloads": "1.9M",
     "ratings": [
       { "name": "1 star", "count": 800 },
       { "name": "2 star", "count": 1700 },
@@ -108,7 +108,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/7",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNvytl65OWkx47Qx9ucgs-XyPGOsMSBKE4TA&s",
     "title": "BudgetPal",
     "companyName": "Finwise Co.",
     "id": 7,
@@ -116,7 +116,7 @@
     "size": 38,
     "reviews": 49000,
     "ratingAvg": 4.5,
-    "downloads": 4100000,
+    "downloads": "4.1M",
     "ratings": [
       { "name": "1 star", "count": 1100 },
       { "name": "2 star", "count": 1600 },
@@ -126,7 +126,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/8",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyOLsBGYCAuDtS9GrzClHwXet-mwVsA3XA7Q&s",
     "title": "EduMate",
     "companyName": "LearnPro Systems",
     "id": 8,
@@ -134,7 +134,7 @@
     "size": 72,
     "reviews": 86000,
     "ratingAvg": 4.6,
-    "downloads": 9500000,
+    "downloads": "9.5M",
     "ratings": [
       { "name": "1 star", "count": 2100 },
       { "name": "2 star", "count": 2400 },
@@ -144,7 +144,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/9",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvv4Kbaktl4eABqhsYuDAwT27-K0wMRf0b6Q&s",
     "title": "TravelGo",
     "companyName": "ExploreIT",
     "id": 9,
@@ -152,7 +152,7 @@
     "size": 64,
     "reviews": 77000,
     "ratingAvg": 4.5,
-    "downloads": 8800000,
+    "downloads": "8.8M",
     "ratings": [
       { "name": "1 star", "count": 1500 },
       { "name": "2 star", "count": 2300 },
@@ -162,7 +162,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/10",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSNMXId1vm7sBBGIBhVqNDN6I7zeBYl6XVtA&s",
     "title": "MindCalm",
     "companyName": "ZenApps",
     "id": 10,
@@ -170,7 +170,7 @@
     "size": 44,
     "reviews": 53000,
     "ratingAvg": 4.7,
-    "downloads": 5400000,
+    "downloads": "5.4M",
     "ratings": [
       { "name": "1 star", "count": 1200 },
       { "name": "2 star", "count": 1800 },
@@ -180,7 +180,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/11",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNzTlE8yLaENlKmg7dyDplo4qWSHGestI1UA&s",
     "title": "RecipeHub",
     "companyName": "CookSmart Labs",
     "id": 11,
@@ -188,7 +188,7 @@
     "size": 53,
     "reviews": 39000,
     "ratingAvg": 4.3,
-    "downloads": 3300000,
+    "downloads": "3.3M",
     "ratings": [
       { "name": "1 star", "count": 900 },
       { "name": "2 star", "count": 1900 },
@@ -198,7 +198,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/12",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR29dcrn_MyVMGMl6M5Bl1OYq43gOEYSGVI9A&s",
     "title": "CryptoView",
     "companyName": "BlockTech Solutions",
     "id": 12,
@@ -206,7 +206,7 @@
     "size": 37,
     "reviews": 42000,
     "ratingAvg": 4.1,
-    "downloads": 2700000,
+    "downloads": "2.7M",
     "ratings": [
       { "name": "1 star", "count": 1500 },
       { "name": "2 star", "count": 2500 },
@@ -216,7 +216,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/13",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY4EIC8hVKH3u8uIn05AzDrplRDgnX0K4efQ&s",
     "title": "ShopLink",
     "companyName": "Marketly",
     "id": 13,
@@ -224,7 +224,7 @@
     "size": 48,
     "reviews": 59000,
     "ratingAvg": 4.5,
-    "downloads": 4800000,
+    "downloads": "4.8M",
     "ratings": [
       { "name": "1 star", "count": 1000 },
       { "name": "2 star", "count": 1900 },
@@ -234,7 +234,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/14",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6VI1bJpzUdP2fVperJi4ivbRvOka5A8BhxA&s",
     "title": "ChatWave",
     "companyName": "Connectify",
     "id": 14,
@@ -242,7 +242,7 @@
     "size": 70,
     "reviews": 98000,
     "ratingAvg": 4.8,
-    "downloads": 12000000,
+    "downloads": "12M",
     "ratings": [
       { "name": "1 star", "count": 2500 },
       { "name": "2 star", "count": 3000 },
@@ -252,7 +252,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/15",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyrKjl7FKXGQooPyti8WSfXrN_xCWZgGw4UA&s",
     "title": "DriveSafe",
     "companyName": "SafeRide Tech",
     "id": 15,
@@ -260,7 +260,7 @@
     "size": 59,
     "reviews": 34000,
     "ratingAvg": 4.4,
-    "downloads": 2600000,
+    "downloads": "2.6M",
     "ratings": [
       { "name": "1 star", "count": 1100 },
       { "name": "2 star", "count": 1500 },
@@ -269,9 +269,8 @@
       { "name": "5 star", "count": 15200 }
     ]
   },
-  
   {
-    "image": "https://play-lh.googleusercontent.com/16",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoun6kvumNHZrN5QDgXappAL4Sm9R3wAEadA&s",
     "title": "FitMeal",
     "companyName": "HealthNut Inc.",
     "id": 16,
@@ -279,7 +278,7 @@
     "size": 34,
     "reviews": 47000,
     "ratingAvg": 4.6,
-    "downloads": 4300000,
+    "downloads": "4.3M",
     "ratings": [
       { "name": "1 star", "count": 900 },
       { "name": "2 star", "count": 1500 },
@@ -289,7 +288,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/17",
+    "image": "https://play-lh.googleusercontent.com/S5cHQc3S-_idZUyHtxxup7PlZ1mr7kjYVkuiB8klEIqm2OdotHkK1Dwyym-HorMDSbc",
     "title": "TravelMate",
     "companyName": "ExploreIT",
     "id": 17,
@@ -297,7 +296,7 @@
     "size": 62,
     "reviews": 65000,
     "ratingAvg": 4.5,
-    "downloads": 7600000,
+    "downloads": "7.6M",
     "ratings": [
       { "name": "1 star", "count": 1500 },
       { "name": "2 star", "count": 2100 },
@@ -307,7 +306,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/18",
+    "image": "https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/f0/8e/3f/f08e3f2d-5eb2-3483-f3e0-a9b097cf0943/source/512x512bb.jpg",
     "title": "PhotoBlend",
     "companyName": "PixelForge Ltd.",
     "id": 18,
@@ -315,7 +314,7 @@
     "size": 56,
     "reviews": 52000,
     "ratingAvg": 4.7,
-    "downloads": 5100000,
+    "downloads": "5.1M",
     "ratings": [
       { "name": "1 star", "count": 1200 },
       { "name": "2 star", "count": 1800 },
@@ -325,7 +324,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/19",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCZCkYbkrM0JMTWPBEbt3BUyQdI07rtFNlhA&s",
     "title": "MindFocus",
     "companyName": "ZenApps",
     "id": 19,
@@ -333,7 +332,7 @@
     "size": 41,
     "reviews": 47000,
     "ratingAvg": 4.6,
-    "downloads": 4200000,
+    "downloads": "4.2M",
     "ratings": [
       { "name": "1 star", "count": 1000 },
       { "name": "2 star", "count": 1600 },
@@ -343,7 +342,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/20",
+    "image": "https://sc.filehippo.net/images/t_app-icon-l/p/f3e2e429-9747-4e3d-8bbb-5f1ec18e616b/1341664963/cryptotracker-logo",
     "title": "CryptoTracker",
     "companyName": "BlockTech Solutions",
     "id": 20,
@@ -351,7 +350,7 @@
     "size": 36,
     "reviews": 49000,
     "ratingAvg": 4.4,
-    "downloads": 3000000,
+    "downloads": "3M",
     "ratings": [
       { "name": "1 star", "count": 1200 },
       { "name": "2 star", "count": 1800 },
@@ -361,7 +360,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/21",
+    "image": "https://media.licdn.com/dms/image/v2/C4D0BAQE8-pPxWDJzKw/company-logo_200_200/company-logo_200_200/0/1630528709560/shopsmartagency_logo?e=2147483647&v=beta&t=ZsxaS40ALAjNil2wtO6t7-aayi6cOwbOEVbwKusaG7s",
     "title": "ShopSmart",
     "companyName": "Marketly",
     "id": 21,
@@ -369,7 +368,7 @@
     "size": 49,
     "reviews": 58000,
     "ratingAvg": 4.5,
-    "downloads": 4700000,
+    "downloads": "4.7M",
     "ratings": [
       { "name": "1 star", "count": 1100 },
       { "name": "2 star", "count": 2000 },
@@ -379,7 +378,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/22",
+    "image": "https://meditatenow.it.com/wp-content/uploads/2025/09/philosophical_purpose.webp",
     "title": "MeditateNow",
     "companyName": "ZenApps",
     "id": 22,
@@ -387,121 +386,121 @@
     "size": 42,
     "reviews": 51000,
     "ratingAvg": 4.7,
-    "downloads": 5200000,
+    "downloads": "5.2M",
     "ratings": [
       { "name": "1 star", "count": 1200 },
       { "name": "2 star", "count": 1600 },
       { "name": "3 star", "count": 4800 },
       { "name": "4 star", "count": 14800 },
-      { "name": "5 star", "count": 26600 }
+      { "name": "5 star", "count": 28600 }
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/23",
-    "title": "EduLearn",
-    "companyName": "LearnPro Systems",
+    "image": "https://play-lh.googleusercontent.com/kO-Ew8iAi42sF6fdi2FafkbQUu3nEIV7I_PPUAtRechMIh5LTVhw7F7jn5VptROYG0A",
+    "title": "HealthSync",
+    "companyName": "ActiveWave Inc.",
     "id": 23,
-    "description": "Learn new skills online with interactive courses and quizzes.",
-    "size": 75,
-    "reviews": 88000,
+    "description": "Sync health data across devices and monitor your daily activity.",
+    "size": 55,
+    "reviews": 64000,
     "ratingAvg": 4.6,
-    "downloads": 9700000,
-    "ratings": [
-      { "name": "1 star", "count": 2200 },
-      { "name": "2 star", "count": 2500 },
-      { "name": "3 star", "count": 7000 },
-      { "name": "4 star", "count": 18500 },
-      { "name": "5 star", "count": 57300 }
-    ]
-  },
-  {
-    "image": "https://play-lh.googleusercontent.com/24",
-    "title": "RideShareX",
-    "companyName": "SafeRide Tech",
-    "id": 24,
-    "description": "Find rides, share trips, and earn rewards for safe driving.",
-    "size": 68,
-    "reviews": 72000,
-    "ratingAvg": 4.5,
-    "downloads": 8500000,
+    "downloads": "6.8M",
     "ratings": [
       { "name": "1 star", "count": 1300 },
-      { "name": "2 star", "count": 2000 },
-      { "name": "3 star", "count": 5400 },
-      { "name": "4 star", "count": 15200 },
-      { "name": "5 star", "count": 30100 }
-    ]
-  },
-  {
-    "image": "https://play-lh.googleusercontent.com/25",
-    "title": "PhotoMaster",
-    "companyName": "PixelForge Ltd.",
-    "id": 25,
-    "description": "Professional photo editing tools for photographers and designers.",
-    "size": 64,
-    "reviews": 58000,
-    "ratingAvg": 4.7,
-    "downloads": 6000000,
-    "ratings": [
-      { "name": "1 star", "count": 1200 },
-      { "name": "2 star", "count": 1800 },
+      { "name": "2 star", "count": 1700 },
       { "name": "3 star", "count": 5200 },
       { "name": "4 star", "count": 16000 },
-      { "name": "5 star", "count": 29000 }
+      { "name": "5 star", "count": 39800 }
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/26",
-    "title": "GameHub",
-    "companyName": "PlayArena",
-    "id": 26,
-    "description": "Discover and play trending mobile games with friends online.",
-    "size": 80,
-    "reviews": 99000,
-    "ratingAvg": 4.8,
-    "downloads": 11500000,
+    "image": "https://cdn.prod.website-files.com/65e19f9831811e6d897ce80e/65e19fedf48c874f96d7d724_LOGO.jpg",
+    "title": "BudgetEase",
+    "companyName": "Finwise Co.",
+    "id": 24,
+    "description": "Track expenses, manage savings, and plan financial goals.",
+    "size": 39,
+    "reviews": 46000,
+    "ratingAvg": 4.4,
+    "downloads": "3.9M",
     "ratings": [
-      { "name": "1 star", "count": 2500 },
-      { "name": "2 star", "count": 3000 },
-      { "name": "3 star", "count": 7100 },
-      { "name": "4 star", "count": 21000 },
-      { "name": "5 star", "count": 64400 }
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 4900 },
+      { "name": "4 star", "count": 13200 },
+      { "name": "5 star", "count": 26500 }
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/27",
-    "title": "LearnCode",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY6twGXXbZNASsM0G6IUsLWPM4oBDMViuXNg&s",
+    "title": "EduLearn",
     "companyName": "LearnPro Systems",
-    "id": 27,
-    "description": "Code tutorials, challenges, and project-based learning platform.",
-    "size": 90,
-    "reviews": 83000,
-    "ratingAvg": 4.6,
-    "downloads": 10200000,
+    "id": 25,
+    "description": "Interactive lessons, quizzes, and progress tracking for students.",
+    "size": 78,
+    "reviews": 91000,
+    "ratingAvg": 4.7,
+    "downloads": "10M",
     "ratings": [
-      { "name": "1 star", "count": 2000 },
+      { "name": "1 star", "count": 2100 },
       { "name": "2 star", "count": 2500 },
       { "name": "3 star", "count": 7100 },
-      { "name": "4 star", "count": 19500 },
-      { "name": "5 star", "count": 53400 }
+      { "name": "4 star", "count": 18600 },
+      { "name": "5 star", "count": 60700 }
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/28",
-    "title": "DailyPlanner",
-    "companyName": "SmartHive Apps",
-    "id": 28,
-    "description": "Organize your day, set reminders, and boost productivity.",
-    "size": 33,
-    "reviews": 52000,
-    "ratingAvg": 4.4,
-    "downloads": 4800000,
+    "image": "https://play-lh.googleusercontent.com/ddQJ9tov0tW5C9Iec-EQflnQZTpHdGAu0jVVgCP3Ucx1hfvRragjd2WDHL0-QJwl1OM",
+    "title": "DriveTrack",
+    "companyName": "SafeRide Tech",
+    "id": 26,
+    "description": "Monitor your trips and analyze driving patterns.",
+    "size": 60,
+    "reviews": 32000,
+    "ratingAvg": 4.3,
+    "downloads": "2.4M",
     "ratings": [
-      { "name": "1 star", "count": 1000 },
+      { "name": "1 star", "count": 1100 },
+      { "name": "2 star", "count": 1400 },
+      { "name": "3 star", "count": 4800 },
+      { "name": "4 star", "count": 11600 },
+      { "name": "5 star", "count": 13100 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPywRhVZNvfOr_dvOTvbN9gXwsLIUrngRrVQ&s",
+    "title": "SoundFlow",
+    "companyName": "RhythmX",
+    "id": 27,
+    "description": "Stream high-quality audio and enjoy offline playlists.",
+    "size": 63,
+    "reviews": 70000,
+    "ratingAvg": 4.8,
+    "downloads": "9.2M",
+    "ratings": [
+      { "name": "1 star", "count": 1400 },
       { "name": "2 star", "count": 1800 },
+      { "name": "3 star", "count": 5200 },
+      { "name": "4 star", "count": 16800 },
+      { "name": "5 star", "count": 44800 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNUV3gr-mjrVtJmbo0emIv2jBZ0y1Yc043rw&s",
+    "title": "FitStep",
+    "companyName": "ActiveWave Inc.",
+    "id": 28,
+    "description": "Track your steps, calories, and fitness goals daily.",
+    "size": 47,
+    "reviews": 58000,
+    "ratingAvg": 4.6,
+    "downloads": "6.4M",
+    "ratings": [
+      { "name": "1 star", "count": 1100 },
+      { "name": "2 star", "count": 1600 },
       { "name": "3 star", "count": 5400 },
-      { "name": "4 star", "count": 14000 },
-      { "name": "5 star", "count": 21200 }
+      { "name": "4 star", "count": 15200 },
+      { "name": "5 star", "count": 34700 }
     ]
   }
 ]

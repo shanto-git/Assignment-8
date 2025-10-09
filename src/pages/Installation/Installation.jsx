@@ -31,7 +31,7 @@ const Installation = () => {
                     </div>
                 </div>
             </div>
-            <button className="btn">Uninstall</button>
+            <button className="btn bg-green-400 text-white font-semibold shadow-sm">Uninstall</button>
         </div>
       </div>
     </div>

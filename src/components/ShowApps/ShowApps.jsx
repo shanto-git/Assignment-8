@@ -1,7 +1,8 @@
 import React, { useState } from "react";
-import { useNavigate } from "react-router";
+import { Link, useNavigate } from "react-router";
+import { Download, Star } from 'lucide-react';
 
-const ShowApps = ({ allApps }) => {
+const ShowApps = ({ allApps, }) => {
     const back =useNavigate();
 
     const handleGoBack = () => {
@@ -51,10 +52,7 @@ const ShowApps = ({ allApps }) => {
         {showApp.length > 0 ? (
           <div className="grid grid-cols-12 gap-10 ">
             {showApp.map((app) => (
-              <div
-                key={app.id}
-                className="card place-items-center bg-base-100 w-auto shadow-sm rounded-xl col-span-12 sm:col-span-6 lg:col-span-3 hover:scale-105"
-              >
+              <Link key={app.id} to={`/SingleApp/${app.id}`} className="card place-items-center bg-base-100 w-auto shadow-sm rounded-xl col-span-12 sm:col-span-6 lg:col-span-3 hover:scale-105 transition-transform">
                 <img
                   className="m-2 rounded-xl w-auto lg:w-70 h-70"
                   src={app.image}
@@ -65,11 +63,11 @@ const ShowApps = ({ allApps }) => {
                     {app.title} : {app.companyName}
                   </h2>
                   <div className="flex justify-between mt-auto">
-                    <div className="badge badge-outline ">{app.downloads}</div>
-                    <div className="badge badge-outline">{app.ratingAvg}</div>
+                    <div className="badge bg-green-100 "><h1 className="flex items-center gap-1 text-green-500 font-semibold"><Download size={14} strokeWidth={2.75} />{app.downloads}</h1></div>
+                    <div className="badge bg-orange-100"><h1 className="flex items-center gap-1 text-orange-500 font-semibold"><Star size={13} strokeWidth={3} /> {app.ratingAvg}</h1></div>
                   </div>
                 </div>
-              </div>
+              </Link>
             ))}
           </div>
         ) : (

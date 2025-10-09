@@ -1,6 +1,6 @@
 import React from "react";
 import { NavLink } from "react-router";
-// import img from "../../../public/logo.png";
+import { FaGithub } from "react-icons/fa";
 
 const Navbar = () => {
   return (
@@ -29,28 +29,97 @@ const Navbar = () => {
               tabIndex={0}
               className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-22 p-2 shadow"
             >
-              <li><NavLink to="/">Home</NavLink></li>
-              <li><NavLink to="">Apps</NavLink></li>
-              <li><NavLink to=""></NavLink></li>
+              <li>
+              <NavLink
+                to="/"
+                className={({isActive}) =>
+                  isActive
+                    ? "bg-gradient-to-r from-indigo-500  to-purple-500 bg-clip-text text-transparent font-bold "
+                    : "font-semibold hover:text-blue-400"
+                }
+              >
+                Home
+              </NavLink>
+            </li>
+            <li>
+              <NavLink
+                to="/AppsData"
+                className={({isActive}) =>
+                  isActive
+                    ? "bg-gradient-to-r from-indigo-500  to-purple-500 bg-clip-text text-transparent font-bold"
+                    : "font-semibold hover:text-blue-400"
+                }
+              >
+                Apps
+              </NavLink>
+            </li>
+            <li>
+              <NavLink
+                to="/Installation"
+                className={({isActive}) =>
+                  isActive
+                    ? "bg-gradient-to-r from-indigo-500  to-purple-500 bg-clip-text text-transparent font-bold"
+                    : "font-semibold  hover:text-blue-500"
+                }
+              >
+                Installation
+              </NavLink>
+            </li>
             </ul>
           </div>
-          <NavLink to='/'><div className="flex items-center">
-            <img className="h-10 w-10" src="/logo.png" alt="logo" />
-            <span className="text-xl font-bold bg-gradient-to-r from-indigo-500  to-purple-500 bg-clip-text text-transparent">
-              HERO.IO
-            </span>
-          </div></NavLink>
+          <NavLink to="/">
+            <div className="flex items-center">
+              <img className="h-10 w-10" src="/logo.png" alt="logo" />
+              <span className="text-xl font-bold bg-gradient-to-r from-indigo-500  to-purple-500 bg-clip-text text-transparent">
+                HERO.IO
+              </span>
+            </div>
+          </NavLink>
         </div>
         <div className="navbar-center hidden lg:flex">
           <ul className="menu menu-horizontal px-1 gap-8 ">
-            <li><NavLink to="/">Home</NavLink></li>
-            <li><NavLink to="/AppsData">Apps</NavLink></li>
-            <li><NavLink to="/Installation">Installation</NavLink></li>
+            <li>
+              <NavLink
+                to="/"
+                className={({isActive}) =>
+                  isActive
+                    ? "bg-gradient-to-r from-indigo-500  to-purple-500 bg-clip-text text-transparent font-bold border-b-2 border-blue-500"
+                    : "font-semibold hover:text-blue-400"
+                }
+              >
+                Home
+              </NavLink>
+            </li>
+            <li>
+              <NavLink
+                to="/AppsData"
+                className={({isActive}) =>
+                  isActive
+                    ? "bg-gradient-to-r from-indigo-500  to-purple-500 bg-clip-text text-transparent font-bold border-b-2 border-blue-500"
+                    : "font-semibold hover:text-blue-400"
+                }
+              >
+                Apps
+              </NavLink>
+            </li>
+            <li>
+              <NavLink
+                to="/Installation"
+                className={({isActive}) =>
+                  isActive
+                    ? "bg-gradient-to-r from-indigo-500  to-purple-500 bg-clip-text text-transparent font-bold border-b-2 border-blue-500"
+                    : "font-semibold  hover:text-blue-500"
+                }
+              >
+                Installation
+              </NavLink>
+            </li>
           </ul>
         </div>
         <div className="navbar-end">
           <span className="btn bg-linear-to-l from-purple-500 to-indigo-700 text-white">
-            Contribute
+           <FaGithub />
+ Contribute
           </span>
         </div>
       </div>

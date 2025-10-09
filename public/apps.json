@@ -6,7 +6,7 @@
     "id": 1,
     "description": "A lightweight photo editing app with AI filters and background remover.",
     "size": 42,
-    "reviews": 52000,
+    "reviews": "52k",
     "ratingAvg": 4.6,
     "downloads": "5M",
     "ratings": [
@@ -24,7 +24,7 @@
     "id": 2,
     "description": "Manage your tasks efficiently with reminders and progress tracking.",
     "size": 28,
-    "reviews": 45000,
+    "reviews": "45k",
     "ratingAvg": 4.4,
     "downloads": "3.2M",
     "ratings": [
@@ -42,7 +42,7 @@
     "id": 3,
     "description": "Track your daily steps, calories, and workouts with precision analytics.",
     "size": 65,
-    "reviews": 68000,
+    "reviews": "68k",
     "ratingAvg": 4.7,
     "downloads": "7.2M",
     "ratings": [
@@ -60,7 +60,7 @@
     "id": 4,
     "description": "Create and organize notes with voice-to-text and sync across devices.",
     "size": 31,
-    "reviews": 39000,
+    "reviews": "39k",
     "ratingAvg": 4.2,
     "downloads": "2.2M",
     "ratings": [
@@ -78,7 +78,7 @@
     "id": 5,
     "description": "High-quality music player with equalizer and offline mode.",
     "size": 58,
-    "reviews": 72000,
+    "reviews": "72k",
     "ratingAvg": 4.8,
     "downloads": "8.5M",
     "ratings": [
@@ -96,7 +96,7 @@
     "id": 6,
     "description": "Accurate weather forecasting with radar and live alerts.",
     "size": 25,
-    "reviews": 31000,
+    "reviews": "31k",
     "ratingAvg": 4.3,
     "downloads": "1.9M",
     "ratings": [
@@ -114,7 +114,7 @@
     "id": 7,
     "description": "Smart expense tracker that helps you save and plan budgets easily.",
     "size": 38,
-    "reviews": 49000,
+    "reviews": "49k",
     "ratingAvg": 4.5,
     "downloads": "4.1M",
     "ratings": [
@@ -132,7 +132,7 @@
     "id": 8,
     "description": "Interactive learning platform with video tutorials and quizzes.",
     "size": 72,
-    "reviews": 86000,
+    "reviews": "86k",
     "ratingAvg": 4.6,
     "downloads": "9.5M",
     "ratings": [
@@ -150,7 +150,7 @@
     "id": 9,
     "description": "Find cheap flights, hotels, and trip ideas with real-time booking.",
     "size": 64,
-    "reviews": 77000,
+    "reviews": "77k",
     "ratingAvg": 4.5,
     "downloads": "8.8M",
     "ratings": [
@@ -168,7 +168,7 @@
     "id": 10,
     "description": "Guided meditation app to reduce stress and improve focus.",
     "size": 44,
-    "reviews": 53000,
+    "reviews": "53k",
     "ratingAvg": 4.7,
     "downloads": "5.4M",
     "ratings": [
@@ -186,7 +186,7 @@
     "id": 11,
     "description": "Discover, save, and share recipes from chefs worldwide.",
     "size": 53,
-    "reviews": 39000,
+    "reviews": "39k",
     "ratingAvg": 4.3,
     "downloads": "3.3M",
     "ratings": [
@@ -204,7 +204,7 @@
     "id": 12,
     "description": "Monitor crypto prices, news, and create your personalized portfolio.",
     "size": 37,
-    "reviews": 42000,
+    "reviews": "42k",
     "ratingAvg": 4.1,
     "downloads": "2.7M",
     "ratings": [
@@ -222,7 +222,7 @@
     "id": 13,
     "description": "Compare product prices across online stores instantly.",
     "size": 48,
-    "reviews": 59000,
+    "reviews": "59k",
     "ratingAvg": 4.5,
     "downloads": "4.8M",
     "ratings": [
@@ -240,7 +240,7 @@
     "id": 14,
     "description": "Fast, secure messaging app with group chat and media sharing.",
     "size": 70,
-    "reviews": 98000,
+    "reviews": "98k",
     "ratingAvg": 4.8,
     "downloads": "12M",
     "ratings": [
@@ -258,7 +258,7 @@
     "id": 15,
     "description": "Monitor driving habits, get safety tips and reduce car insurance cost.",
     "size": 59,
-    "reviews": 34000,
+    "reviews": "34k",
     "ratingAvg": 4.4,
     "downloads": "2.6M",
     "ratings": [
@@ -276,7 +276,7 @@
     "id": 16,
     "description": "Meal planner with calorie tracking and healthy recipes.",
     "size": 34,
-    "reviews": 47000,
+    "reviews": "47k",
     "ratingAvg": 4.6,
     "downloads": "4.3M",
     "ratings": [
@@ -294,7 +294,7 @@
     "id": 17,
     "description": "Plan trips, track flights, and book hotels easily.",
     "size": 62,
-    "reviews": 65000,
+    "reviews": "65k",
     "ratingAvg": 4.5,
     "downloads": "7.6M",
     "ratings": [
@@ -312,7 +312,7 @@
     "id": 18,
     "description": "Blend photos, apply effects, and create collages effortlessly.",
     "size": 56,
-    "reviews": 52000,
+    "reviews": "52k",
     "ratingAvg": 4.7,
     "downloads": "5.1M",
     "ratings": [
@@ -328,179 +328,179 @@
     "title": "MindFocus",
     "companyName": "ZenApps",
     "id": 19,
-    "description": "Enhance focus and productivity with guided exercises.",
-    "size": 41,
-    "reviews": 47000,
-    "ratingAvg": 4.6,
-    "downloads": "4.2M",
+    "description": "Brain training and focus improvement exercises.",
+    "size": 46,
+    "reviews": "38k",
+    "ratingAvg": 4.4,
+    "downloads": "3.2M",
     "ratings": [
       { "name": "1 star", "count": 1000 },
       { "name": "2 star", "count": 1600 },
-      { "name": "3 star", "count": 5000 },
-      { "name": "4 star", "count": 13800 },
-      { "name": "5 star", "count": 26400 }
+      { "name": "3 star", "count": 4800 },
+      { "name": "4 star", "count": 11500 },
+      { "name": "5 star", "count": 19000 }
     ]
   },
   {
-    "image": "https://sc.filehippo.net/images/t_app-icon-l/p/f3e2e429-9747-4e3d-8bbb-5f1ec18e616b/1341664963/cryptotracker-logo",
-    "title": "CryptoTracker",
-    "companyName": "BlockTech Solutions",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNCnq2Yc8Q6EOboKZk3j7s-NJh1dE9YwI4Xg&s",
+    "title": "SleepWell",
+    "companyName": "ZenApps",
     "id": 20,
-    "description": "Track cryptocurrency prices and portfolio performance in real-time.",
-    "size": 36,
-    "reviews": 49000,
+    "description": "Sleep tracking and guided sleep meditation.",
+    "size": 33,
+    "reviews": "41k",
+    "ratingAvg": 4.5,
+    "downloads": "3.8M",
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 5000 },
+      { "name": "4 star", "count": 12000 },
+      { "name": "5 star", "count": 22600 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF8WQosqXLW1xP0NZvZ7OFiDk_J1JXQ9MzPQ&s",
+    "title": "LearnLang",
+    "companyName": "EduPro",
+    "id": 21,
+    "description": "Language learning app with games and quizzes.",
+    "size": 61,
+    "reviews": "74k",
+    "ratingAvg": 4.6,
+    "downloads": "7.9M",
+    "ratings": [
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 6700 },
+      { "name": "4 star", "count": 18200 },
+      { "name": "5 star", "count": 40000 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqA5JY3fWmL3rW8P45TPv6EwV9lqgP9nM65Q&s",
+    "title": "NewsDaily",
+    "companyName": "InfoStream",
+    "id": 22,
+    "description": "Latest news, trending topics, and personalized notifications.",
+    "size": 28,
+    "reviews": "63k",
     "ratingAvg": 4.4,
-    "downloads": "3M",
+    "downloads": "6.1M",
     "ratings": [
       { "name": "1 star", "count": 1200 },
-      { "name": "2 star", "count": 1800 },
-      { "name": "3 star", "count": 5400 },
-      { "name": "4 star", "count": 13500 },
-      { "name": "5 star", "count": 28000 }
+      { "name": "2 star", "count": 1900 },
+      { "name": "3 star", "count": 5200 },
+      { "name": "4 star", "count": 15500 },
+      { "name": "5 star", "count": 32000 }
     ]
   },
   {
-    "image": "https://media.licdn.com/dms/image/v2/C4D0BAQE8-pPxWDJzKw/company-logo_200_200/company-logo_200_200/0/1630528709560/shopsmartagency_logo?e=2147483647&v=beta&t=ZsxaS40ALAjNil2wtO6t7-aayi6cOwbOEVbwKusaG7s",
-    "title": "ShopSmart",
-    "companyName": "Marketly",
-    "id": 21,
-    "description": "Get the best deals and compare prices across multiple online stores.",
-    "size": 49,
-    "reviews": 58000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq-8tUkTq5ybx7JG8R8F_ZQvRRCcHlI64_lA&s",
+    "title": "TaskMaster",
+    "companyName": "SmartHive Apps",
+    "id": 23,
+    "description": "Advanced task manager with calendar integration.",
+    "size": 39,
+    "reviews": "55k",
     "ratingAvg": 4.5,
-    "downloads": "4.7M",
+    "downloads": "4.5M",
     "ratings": [
       { "name": "1 star", "count": 1100 },
-      { "name": "2 star", "count": 2000 },
-      { "name": "3 star", "count": 5100 },
-      { "name": "4 star", "count": 14700 },
-      { "name": "5 star", "count": 25200 }
+      { "name": "2 star", "count": 1700 },
+      { "name": "3 star", "count": 5400 },
+      { "name": "4 star", "count": 15000 },
+      { "name": "5 star", "count": 23000 }
     ]
   },
   {
-    "image": "https://meditatenow.it.com/wp-content/uploads/2025/09/philosophical_purpose.webp",
-    "title": "MeditateNow",
-    "companyName": "ZenApps",
-    "id": 22,
-    "description": "Guided meditation and breathing exercises for mental wellness.",
-    "size": 42,
-    "reviews": 51000,
-    "ratingAvg": 4.7,
-    "downloads": "5.2M",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToaw9xuq6F7w1_GX8VZxexOoeFTXU9ztPzYw&s",
+    "title": "PhotoMaster",
+    "companyName": "PixelForge Ltd.",
+    "id": 24,
+    "description": "Professional photo editing with layers and advanced tools.",
+    "size": 71,
+    "reviews": "88k",
+    "ratingAvg": 4.8,
+    "downloads": "11M",
     "ratings": [
-      { "name": "1 star", "count": 1200 },
-      { "name": "2 star", "count": 1600 },
-      { "name": "3 star", "count": 4800 },
-      { "name": "4 star", "count": 14800 },
-      { "name": "5 star", "count": 28600 }
+      { "name": "1 star", "count": 2400 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 7200 },
+      { "name": "4 star", "count": 21000 },
+      { "name": "5 star", "count": 58800 }
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/kO-Ew8iAi42sF6fdi2FafkbQUu3nEIV7I_PPUAtRechMIh5LTVhw7F7jn5VptROYG0A",
-    "title": "HealthSync",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO6VsdD4_2CMFjhr-3r1mGRKtrgVwS_MV6wA&s",
+    "title": "HealthTrack",
     "companyName": "ActiveWave Inc.",
-    "id": 23,
-    "description": "Sync health data across devices and monitor your daily activity.",
-    "size": 55,
-    "reviews": 64000,
+    "id": 25,
+    "description": "Monitor health vitals, workouts, and nutrition.",
+    "size": 66,
+    "reviews": "61k",
     "ratingAvg": 4.6,
     "downloads": "6.8M",
     "ratings": [
       { "name": "1 star", "count": 1300 },
-      { "name": "2 star", "count": 1700 },
-      { "name": "3 star", "count": 5200 },
-      { "name": "4 star", "count": 16000 },
-      { "name": "5 star", "count": 39800 }
+      { "name": "2 star", "count": 1800 },
+      { "name": "3 star", "count": 5700 },
+      { "name": "4 star", "count": 15700 },
+      { "name": "5 star", "count": 32800 }
     ]
   },
   {
-    "image": "https://cdn.prod.website-files.com/65e19f9831811e6d897ce80e/65e19fedf48c874f96d7d724_LOGO.jpg",
-    "title": "BudgetEase",
-    "companyName": "Finwise Co.",
-    "id": 24,
-    "description": "Track expenses, manage savings, and plan financial goals.",
-    "size": 39,
-    "reviews": 46000,
-    "ratingAvg": 4.4,
-    "downloads": "3.9M",
-    "ratings": [
-      { "name": "1 star", "count": 900 },
-      { "name": "2 star", "count": 1500 },
-      { "name": "3 star", "count": 4900 },
-      { "name": "4 star", "count": 13200 },
-      { "name": "5 star", "count": 26500 }
-    ]
-  },
-  {
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY6twGXXbZNASsM0G6IUsLWPM4oBDMViuXNg&s",
-    "title": "EduLearn",
-    "companyName": "LearnPro Systems",
-    "id": 25,
-    "description": "Interactive lessons, quizzes, and progress tracking for students.",
-    "size": 78,
-    "reviews": 91000,
-    "ratingAvg": 4.7,
-    "downloads": "10M",
-    "ratings": [
-      { "name": "1 star", "count": 2100 },
-      { "name": "2 star", "count": 2500 },
-      { "name": "3 star", "count": 7100 },
-      { "name": "4 star", "count": 18600 },
-      { "name": "5 star", "count": 60700 }
-    ]
-  },
-  {
-    "image": "https://play-lh.googleusercontent.com/ddQJ9tov0tW5C9Iec-EQflnQZTpHdGAu0jVVgCP3Ucx1hfvRragjd2WDHL0-QJwl1OM",
-    "title": "DriveTrack",
-    "companyName": "SafeRide Tech",
-    "id": 26,
-    "description": "Monitor your trips and analyze driving patterns.",
-    "size": 60,
-    "reviews": 32000,
-    "ratingAvg": 4.3,
-    "downloads": "2.4M",
-    "ratings": [
-      { "name": "1 star", "count": 1100 },
-      { "name": "2 star", "count": 1400 },
-      { "name": "3 star", "count": 4800 },
-      { "name": "4 star", "count": 11600 },
-      { "name": "5 star", "count": 13100 }
-    ]
-  },
-  {
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPywRhVZNvfOr_dvOTvbN9gXwsLIUrngRrVQ&s",
-    "title": "SoundFlow",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR5SLv6qf2STJ9VzvS7ZxqAfVfK4gJ9bsc3A&s",
+    "title": "MusicWave",
     "companyName": "RhythmX",
-    "id": 27,
-    "description": "Stream high-quality audio and enjoy offline playlists.",
-    "size": 63,
-    "reviews": 70000,
-    "ratingAvg": 4.8,
-    "downloads": "9.2M",
+    "id": 26,
+    "description": "Stream and download high-quality music tracks.",
+    "size": 59,
+    "reviews": "69k",
+    "ratingAvg": 4.7,
+    "downloads": "7.4M",
     "ratings": [
       { "name": "1 star", "count": 1400 },
-      { "name": "2 star", "count": 1800 },
-      { "name": "3 star", "count": 5200 },
-      { "name": "4 star", "count": 16800 },
-      { "name": "5 star", "count": 44800 }
+      { "name": "2 star", "count": 1900 },
+      { "name": "3 star", "count": 5300 },
+      { "name": "4 star", "count": 16000 },
+      { "name": "5 star", "count": 40000 }
     ]
   },
   {
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNUV3gr-mjrVtJmbo0emIv2jBZ0y1Yc043rw&s",
-    "title": "FitStep",
-    "companyName": "ActiveWave Inc.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsT6QCMX3RrU8r6-KdP6gMJnKcl8v_gW8opA&s",
+    "title": "QuickNotes",
+    "companyName": "Paperless Labs",
+    "id": 27,
+    "description": "Fast note-taking with cloud sync and reminders.",
+    "size": 29,
+    "reviews": "44k",
+    "ratingAvg": 4.3,
+    "downloads": "3.1M",
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 5200 },
+      { "name": "4 star", "count": 12000 },
+      { "name": "5 star", "count": 15800 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRJDEtYzRZ2i5u_9mV5eTtO0B_E5gqjxlWfQ&s",
+    "title": "TaskBuddy",
+    "companyName": "SmartHive Apps",
     "id": 28,
-    "description": "Track your steps, calories, and fitness goals daily.",
-    "size": 47,
-    "reviews": 58000,
-    "ratingAvg": 4.6,
-    "downloads": "6.4M",
+    "description": "Collaborate on tasks with teams efficiently.",
+    "size": 36,
+    "reviews": "51k",
+    "ratingAvg": 4.5,
+    "downloads": "4.4M",
     "ratings": [
       { "name": "1 star", "count": 1100 },
       { "name": "2 star", "count": 1600 },
       { "name": "3 star", "count": 5400 },
-      { "name": "4 star", "count": 15200 },
-      { "name": "5 star", "count": 34700 }
+      { "name": "4 star", "count": 14800 },
+      { "name": "5 star", "count": 21600 }
     ]
   }
 ]

@@ -1,7 +1,16 @@
 import React from 'react';
 import Navbar from '../../components/Navbar/Navbar';
+import { useNavigate } from 'react-router';
 
 const ErrorPage = () => {
+    const back =useNavigate()
+    const handleGoBack = () => {
+    if (window.history.length > 0) {
+      back(-0); 
+    } else {
+      back("/"); 
+    }
+  };
     return (
         <>
         <Navbar></Navbar>
@@ -9,7 +18,7 @@ const ErrorPage = () => {
             <img src="/public/error-404.png" alt="" />
             <h1 className='text-5xl font-bold'>Oops, page not found!</h1>
             <p className='text-xl text-gray-500'>The page you are looking for is not available.</p>
-            <button className='btn bg-linear-to-l from-indigo-500 to-indigo-700 text-white '>Go Back!</button>
+            <button className='btn bg-linear-to-l from-indigo-500 to-indigo-700 text-white ' onClick={handleGoBack}>Go Back!</button>
         </div>
         
         </>

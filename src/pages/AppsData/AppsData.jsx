@@ -1,5 +1,5 @@
 import React from "react";
-import { useLoaderData } from "react-router";
+import { Link, useLoaderData } from "react-router";
 import ShowApps from "../../components/ShowApps/ShowApps";
 
 const AppsData = () => {
@@ -11,8 +11,10 @@ const AppsData = () => {
         <p className="text-xl text-gray-500 mb-10">
           Explore All Apps on the Market developed by us. We code for Millions
         </p>
-        <ShowApps allApps={allApps}></ShowApps>
       </div>
+        <div className="">
+            <ShowApps allApps={allApps}></ShowApps>
+        </div>
     </div>
   );
 };

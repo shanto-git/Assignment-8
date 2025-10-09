@@ -1,5 +1,7 @@
 import React from "react";
 import hero from "../../assets/hero.png";
+import { FaGooglePlay, FaAppStoreIos } from "react-icons/fa";
+
 
 const Banner = () => {
   return (
@@ -21,8 +23,10 @@ const Banner = () => {
               impact.
             </p>
             <div className="mb-4">
-              <button className="btn mr-4">Google Play</button>
-              <button className="btn">App Store</button>
+              <button className="btn shadow mr-4"><FaGooglePlay />
+Google Play</button>
+              <button className="btn shadow"><FaAppStoreIos />
+App Store</button>
             </div>
           </div>
         </div>

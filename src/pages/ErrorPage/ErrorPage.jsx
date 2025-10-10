@@ -6,7 +6,7 @@ const ErrorPage = () => {
     const back =useNavigate()
     const handleGoBack = () => {
     if (window.history.length > 0) {
-      back(-0); 
+      back(-1); 
     } else {
       back("/"); 
     }

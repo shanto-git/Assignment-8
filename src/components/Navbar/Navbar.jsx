@@ -62,7 +62,7 @@ const Navbar = () => {
                     : "font-semibold  hover:text-blue-500"
                 }
               >
-                Installation
+                My Installation
               </NavLink>
             </li>
             </ul>
@@ -111,7 +111,7 @@ const Navbar = () => {
                     : "font-semibold  hover:text-blue-500"
                 }
               >
-                Installation
+                My Installation
               </NavLink>
             </li>
           </ul>

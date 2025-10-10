@@ -5,6 +5,7 @@ import icon2 from "../../assets/icon-ratings.png";
 import icon3 from "../../assets/icon-review.png";
 import AppRecharts from "../Recharts/AppRecharts";
 import { addToStoredDB, getStoredApp } from "../../utility/addToDB";
+import { ToastContainer, toast } from "react-toastify";
 import { useState } from "react";
 import { useEffect } from "react";
 
@@ -22,6 +23,7 @@ const SingleApp = () => {
     addToStoredDB(appDetails.id);
 
     setIsInstalled(true);
+    toast.success(`${appDetails.title} installed successfully!`);
   };
   return (
     <div>
@@ -68,13 +70,21 @@ const SingleApp = () => {
             </div>
             <button
               onClick={() => handleInstallation(appDetails)}
-              // disabled={isInstalled}
               className="btn btn-success text-white font-bold w-52 h-10"
             >
               {isInstalled
                 ? "Installed"
                 : `Install Now (${appDetails.size} MB)`}
             </button>
+            <ToastContainer
+              position="top-center"
+              autoClose={2000}
+              hideProgressBar={false}
+              newestOnTop
+              closeOnClick
+              pauseOnHover
+              draggable
+            />
           </div>
         </div>
         <div className="divider divider-start py-7"></div>

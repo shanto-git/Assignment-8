@@ -117,10 +117,10 @@ const Navbar = () => {
           </ul>
         </div>
         <div className="navbar-end">
-          <span className="btn bg-linear-to-l from-purple-500 to-indigo-700 text-white">
+          <button onClick={()=>window.open("https://github.com/shanto-git")} className="btn bg-linear-to-l from-purple-500 to-indigo-700 text-white">
            <FaGithub />
  Contribute
-          </span>
+          </button>
         </div>
       </div>
     </div>

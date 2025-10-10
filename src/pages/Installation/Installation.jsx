@@ -4,6 +4,7 @@ import { useLoaderData } from "react-router";
 import { getStoredApp, removeStoredDB } from "../../utility/addToDB";
 import { useState } from "react";
 import { Download, Star } from "lucide-react";
+import { ToastContainer, toast } from "react-toastify";
 
 const Installation = () => {
   const data = useLoaderData();
@@ -31,9 +32,11 @@ const Installation = () => {
   };
 
   const handleRemove = (id) => {
-  removeStoredDB(id);
-  setInstalled(installed.filter(app => app.id !== id));
-};
+    const appToRemove = installed.find((app) => app.id === id);
+    removeStoredDB(id);
+    setInstalled(installed.filter((app) => app.id !== id));
+    toast.success(`${appToRemove.title} uninstalled successfully!`);
+  };
   return (
     <div>
       <div className="bg-base-200 px-20 pb-10">
@@ -77,12 +80,24 @@ const Installation = () => {
                 </div>
               </div>
             </div>
-            <button onClick={() => handleRemove(app.id)} className="btn bg-green-400 text-white font-semibold shadow-sm">
+            <button
+              onClick={() => handleRemove(app.id)}
+              className="btn bg-green-400 text-white font-semibold shadow-sm"
+            >
               Uninstall
             </button>
           </div>
         ))}
       </div>
+      <ToastContainer
+        position="top-center"
+        autoClose={2000}
+        hideProgressBar={false}
+        newestOnTop
+        closeOnClick
+        pauseOnHover
+        draggable
+      />
     </div>
   );
 };

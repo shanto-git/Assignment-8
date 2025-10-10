@@ -23,9 +23,9 @@ const Banner = () => {
               impact.
             </p>
             <div className="mb-4">
-              <button className="btn shadow mr-4"><FaGooglePlay />
+              <button onClick={()=>window.open("https://play.google.com/store/games?hl=en")} className="btn shadow mr-4"><FaGooglePlay />
 Google Play</button>
-              <button className="btn shadow"><FaAppStoreIos />
+              <button onClick={()=>window.open("https://www.apple.com/store")} className="btn shadow"><FaAppStoreIos />
 App Store</button>
             </div>
           </div>

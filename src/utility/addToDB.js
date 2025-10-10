@@ -9,13 +9,11 @@ const getStoredApp = () => {
 
 const addToStoredDB = (id) => {
   const storedAppData = getStoredApp();
-  if (storedAppData.includes(id)){
-        alert("already taken")
-    }
   if (!storedAppData.includes(id)) {
     storedAppData.push(id);
     localStorage.setItem("Installation", JSON.stringify(storedAppData));
   }
+  
 };
 
 const removeStoredDB = (id) => {

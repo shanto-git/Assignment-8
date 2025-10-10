@@ -71,7 +71,7 @@ const ShowApps = ({ allApps, }) => {
             ))}
           </div>
         ) : (
-          <div className="">
+          <div className="text-center">
             <div className="flex justify-center items-center my-10">
               <img
                 src="/App-Error.png"
